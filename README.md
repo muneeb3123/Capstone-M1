@@ -147,7 +147,7 @@ Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./license.md) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
