@@ -4,16 +4,26 @@ const menuIcon = document.querySelector('.hamburger__close-icon');
 const hamburger = document.querySelector('.hamburger-button');
 const mIcons = document.querySelectorAll('mobile-menu');
 
-function toggleMenu() {
-  if (menu.classList.contains('showMenu')) {
-    menu.classList.remove('showMenu');
-    menuIcon.style.display = 'none';
-    hamburger.style.display = 'block';
+function toggleClass(element, className) {
+  if (element.classList.contains(className)) {
+    element.classList.remove(className);
   } else {
-    menu.classList.add('showMenu');
-    menuIcon.style.display = 'block';
-    hamburger.style.display = 'none';
+    element.classList.add(className);
   }
+}
+
+function toggleDisplay(element) {
+  if (element.style.display === 'none') {
+    element.style.display = 'block';
+  } else {
+    element.style.display = 'none';
+  }
+}
+
+function toggleMenu() {
+  toggleClass(menu, 'showMenu');
+  toggleDisplay(menuIcon);
+  toggleDisplay(hamburger);
 }
 
 buttons.addEventListener('click', toggleMenu);
