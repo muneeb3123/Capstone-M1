@@ -50,13 +50,15 @@
 - **It has html**
 - **It has CSS**
 - **It has javascript**
+- **Responsive design**
+- **Feature speakers part is fully made dynamically by JavaScript**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="protfolio-project"></a>
- https://muneeb3123.github.io/project-protfolio.github.io/
+ https://muneeb3123.github.io/Capstone-M1/
 This is live version of my protfolio project.you can click on this link to watch live demo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -93,25 +95,18 @@ Step 2: Locate the folder where you cloned your project to and open the `index.h
 - Twitter: [@Hafizabd4](https://twitter.com/Hafizabd4)
 - LinkedIn: (https://www.linkedin.com/in/muneeb-rehman-01b6bb193/)
 
-👤 **Author: Alejandro Salazar Castro**
-
-- GitHub: [@githubhandle](https://github.com/xandro2021)
-- Twitter: [@twitterhandle](https://twitter.com/xandro2021)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alejandro-salazar-ba0ba7255/)
-- Mastodon: [Mastodon](https://uiuxdev.social/@xandrocastro)
-
-👤 **Author: Alejandro Salazar Castro**
-- GitHub: [uuukiiiyooo](https://github.com/uuukiiiyooo)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-- **CSS framework designing**
 - **More detailed**
 - **Master HTML**
 - **deskstop version**
-- outline walkthrough: https://www.loom.com/share/b2022093bb4542649e3c5299d6f374b9
+-
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 📼 Project Walkthrough <a name="project-walk"></a>
+
+- [Project Walkthrough Link](https://www.loom.com/share/c99da20db8034ca3be5d3b6437b6308c)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,6 +124,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 **please show your support to improve my skills .this will help me to work hard**
+Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,6 +135,12 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 "Special thanks to my coding partner "Alejandro Salazar Castro" for their invaluable contributions to this project. Their dedication, skills, and collaborative spirit were essential to our success."
 
+## 🙏 Credit <a name="credit"></a>
+
+
+Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- LICENSE -->
