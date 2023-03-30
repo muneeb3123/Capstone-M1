@@ -31,7 +31,7 @@ li {
 }
 
 .nav-body {
-  background-image: url(/res/img/background.png);
+  background-image: url(../res/img/background.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
