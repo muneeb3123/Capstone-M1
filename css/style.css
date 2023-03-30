@@ -31,7 +31,7 @@ li {
 }
 
 .nav-body {
-  background-image: url(/res/img/background.png);
+  background-image: url(../res/img/background.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -99,7 +99,7 @@ li {
 .main-program {
   background-color: #272a31;
   padding: 20px;
-  background-image: url(/res/img/main-pattern.png);
+  background-image: url(../res/img/main-pattern.png);
 }
 
 .Boxes {
